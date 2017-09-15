@@ -1,7 +1,7 @@
 # vue-force
 
 基于d3的力导向图
-- [x] d3.x
+- [x] d3
 - [x] vuejs
 
 # use
