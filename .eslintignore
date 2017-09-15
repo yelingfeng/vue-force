@@ -1,0 +1,10 @@
+build/*.js
+config/*.js
+static/*.js
+dist/*.js
+node_modules/*
+.eslintrc.js
+.svn
+.babelrc
+cooking.config.js
+karma.conf.js

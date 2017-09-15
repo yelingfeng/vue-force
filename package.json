@@ -1,0 +1,22 @@
+{
+    "name": "vue-force",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vue build src/main.js",
+        "build":"vue build src/main.js --prod",
+        "runDemo": "cd docs &&  python -m SimpleHTTPServer 3000 "
+    },
+    "author": "yelingfeng",
+    "license": "MIT",
+    "dependencies": {
+        "d3": "^3.5.17",
+        "lodash": "^4.17.4",
+        "vue": "^2.4.2"
+    },
+    "devDependencies": {
+        "jquery": "^3.2.1",
+        "mockjs": "^1.0.1-beta3"
+    }
+}
